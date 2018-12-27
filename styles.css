@@ -39,7 +39,7 @@ b {
 }
 
 img {
-  margin: 10px 20px 10px 20px
+  margin: 10px 20px
 }
 
 .editdel {
@@ -48,7 +48,9 @@ img {
   background-color: yellow;
   padding: 5px 88.5px 5px 88.5px;
   text-align: center;
-  margin: 1px 20px 7px 20px;
+  width: 70px;
+  margin: 10px 20px;
+  height: 20px;
 }
 
 h3 {
